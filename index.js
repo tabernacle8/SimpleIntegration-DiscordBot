@@ -1,3 +1,7 @@
+//Dude if you are looking at this please don't judge my programming style from this file like just back away slowly it works
+//This was a 2 day hack, so lets just all be a little sympathetic
+
+
 const {
   Client,
   Intents
